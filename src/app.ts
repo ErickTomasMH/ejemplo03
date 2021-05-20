@@ -26,6 +26,14 @@ class MasterProductos {
         return false;
         });
     }
+    render() {
+        var html: string = "<ul>";
+        this.list.forEach((item: Productos) =>{
+            html += '<li>${item.nombre} ${item.descripcion} <button id=${item.id}></li>'
+        })
+        html += '<ul/>';
+        return html;
+    }
     buscarProducto(key: string){
         var keyExpression: RegExp = new RegExp(key, "i");
         this.buscarlist = this.list.filter((item: Productos) =>{
