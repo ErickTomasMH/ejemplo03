@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo03",
+  "version": "1.0.0",
+  "description": "ejemplo 03 de git",
+  "main": "./dist/app.js",
+  "scripts": {
+    "build": "tsc & node ./dist/app.js"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "erick",
+  "license": "MIT"
+}

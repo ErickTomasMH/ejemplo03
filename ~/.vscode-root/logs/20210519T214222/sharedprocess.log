@@ -1,0 +1,7 @@
+[2021-05-19 21:43:04.870] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-19 21:45:32.127] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-05-19 21:45:38.946] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/ericktomas/Descargas/ejemplo03/~/.vscode-root/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-05-19 21:45:42.702] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.0b427c6c-bb48-4a46-8ca9-2f6337e35f4d: ritwickdey.liveserver
+[2021-05-19 21:45:42.829] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-05-19 21:45:42.831] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-05-19 21:45:42.876] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
